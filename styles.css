@@ -1,0 +1,21 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    
+  }
+*{
+    
+}
+header{
+    border: solid red;
+    background-color: blue;
+    
+}
+header ul li a {
+    color: aliceblue;
+    
+    
+}
+header ul{
+    list-style: none;
+}
