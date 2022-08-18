@@ -97,7 +97,7 @@ ul, li {
   display: block;
 }
 
-/** This Code is only usefull with a sub sub menu */
+/** Este codigo solo es util cuando hay un sub sub menu */
 /* .linksDistribution li ul li {
   position: relative;
 }
