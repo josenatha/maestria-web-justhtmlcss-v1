@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Penny Hofstadter",
+    "gradoAcd": "Doctorado",
+    "anioCedula": "2000",
+    "sni": "",
+    "perfilDeseable": "",
+    "lgac": "Modelado matemático",
+    "especialidades": "Estancia Posdoctoral Académica",
+    "prodCiencAcd": "Super Asimetria"
+  },
+  {
+    "nombre": "Sheldon Cooper",
+    "gradoAcd": "Maestria",
+    "anioCedula": "2008",
+    "sni": "",
+    "perfilDeseable": "",
+    "lgac": "Modelado matemático",
+    "especialidades": "Doctorado en Ciencias en Ingeniería Electrónica",
+    "prodCiencAcd": "Super Asimetria"
+  },
+  {
+    "nombre": "Leonard Hofstadter",
+    "gradoAcd": "Doctorado",
+    "anioCedula": "2004",
+    "sni": "",
+    "perfilDeseable": "",
+    "lgac": "control de procesos",
+    "especialidades": "Maestría en Ciencias en Ingeniería Electrónica",
+    "prodCiencAcd": "Super Asimetria"
+  },
+  {
+    "nombre": "Howard Wolowitz",
+    "gradoAcd": "Maestria",
+    "anioCedula": "2003",
+    "sni": "",
+    "perfilDeseable": "",
+    "lgac": "robótica",
+    "especialidades": "Estancia Posdoctoral Académica",
+    "prodCiencAcd": "Super Asimetria"
+  },
+  {
+    "nombre": "Bernadette Rostenkowsk",
+    "gradoAcd": "Doctorado",
+    "anioCedula": "2012",
+    "sni": "",
+    "perfilDeseable": "",
+    "lgac": "Modelado matemático",
+    "especialidades": "Doctorado en Ciencias en Ingeniería Electrónica",
+    "prodCiencAcd": "Super Asimetria"
+  },
+  {
+    "nombre": "Rajesh Koothrappali",
+    "gradoAcd": "Doctorado",
+    "anioCedula": "2010",
+    "sni": "",
+    "perfilDeseable": "",
+    "lgac": "control de procesos",
+    "especialidades": "Estancia Posdoctoral Académica",
+    "prodCiencAcd": "Super Asimetria"
+  },
+  {
+    "nombre": "Amy Farrah Fowler",
+    "gradoAcd": "Doctorado",
+    "anioCedula": "2015",
+    "sni": "",
+    "perfilDeseable": "",
+    "lgac": "Modelado matemático",
+    "especialidades": "Doctorado en Ciencias en Ingeniería Electrónica",
+    "prodCiencAcd": "Super Asimetria"
+  }
+]
